@@ -1,4 +1,3 @@
-# fuelconsumption
 # Program to calculate the consumption of isotopes of fuel elements in nuclear reactors
 
 ## Fuel Consumption
